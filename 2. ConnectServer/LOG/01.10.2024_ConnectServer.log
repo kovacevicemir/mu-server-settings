@@ -1,0 +1,25 @@
+[20:52:53] Initializing...
+[20:52:53] Connect Server version: 6.0.0.0 Compiled at: Oct 23 2017 01:47:56
+[20:52:53] [Server Data] Loaded Server(s) info CODE: (0), NAME: (Regular), IP: (194.233.78.122), PORT: (56900), VISIBLE: (1), INDEX: (0)
+[20:52:53] [Server Data] Loaded Server(s) info CODE: (14), NAME: (Siege), IP: (194.233.78.122), PORT: (56914), VISIBLE: (0), INDEX: (1)
+[20:53:37] Connection Accept: 1.146.110.208
+[20:53:37] [Server] Sent Server List COUNT: [1] (Index: [0])
+[20:53:39] [Server] Sent Server List COUNT: [1] (Index: [0])
+[20:53:40] [Server] Connecting to Server: Regular (IP: [194.233.78.122] PORT: [56900]) (Players: [0] / Max: [200])
+[20:53:40] Disconnected: 1.146.110.208 (0)
+[21:06:41] Connection Accept: 1.146.110.208
+[21:06:41] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:06:43] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:06:44] [Server] Connecting to Server: Regular (IP: [194.233.78.122] PORT: [56900]) (Players: [0] / Max: [200])
+[21:06:44] Disconnected: 1.146.110.208 (0)
+[21:15:45] Connection Accept: 1.146.110.208
+[21:15:45] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:16:18] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:16:19] [Server] Connecting to Server: Regular (IP: [194.233.78.122] PORT: [56900]) (Players: [0] / Max: [200])
+[21:16:20] Disconnected: 1.146.110.208 (0)
+[21:30:25] Connection Accept: 1.146.110.208
+[21:30:26] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:31:27] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:32:41] [Server] Sent Server List COUNT: [1] (Index: [0])
+[21:32:50] [Server] Connecting to Server: Regular (IP: [194.233.78.122] PORT: [56900]) (Players: [0] / Max: [200])
+[21:32:51] Disconnected: 1.146.110.208 (0)
