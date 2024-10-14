@@ -65,5 +65,5 @@
 	<Item Cat="0" Index="13" Level="7" Durability="255" Skill="1" Luck="1" Option="28" Exc="33" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="15" Index="17" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="15" Index="16" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-	<Item Cat="15" Index="19" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="15" Index="29" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 </Shop>
