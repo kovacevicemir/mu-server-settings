@@ -417,8 +417,8 @@
 	<Item GUID="280" ID="348" Cat="13" Index="135" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="1st Lucky Armor Ticket_Red" />
 	<Item GUID="281" ID="349" Cat="14" Index="162" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Magic Backpack" />
 	<Item GUID="282" ID="350" Cat="14" Index="163" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Vault Expansion Certificate" />
-	<Item GUID="283" ID="351" Cat="12" Index="135" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="1440" Description="Little Warrior's Cloak" />
-	<Item GUID="283" ID="352" Cat="12" Index="135" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="10080" Description="Little Warrior's Cloak" />
+	<!-- <Item GUID="283" ID="351" Cat="12" Index="135" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="1440" Description="Little Warrior's Cloak" /> -->
+	<!-- <Item GUID="283" ID="352" Cat="12" Index="135" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="2" Duration="10080" Description="Little Warrior's Cloak" /> -->
 	<Item GUID="284" ID="353" Cat="14" Index="169" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="3" Duration="0" Description="Rage Fighter Character Card" />
 	<Item GUID="285" ID="354" Cat="14" Index="112" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Silver Key_Time Attack" />
 	<Item GUID="286" ID="355" Cat="14" Index="113" Level="0" Durability="0" Skill="0" Luck="0" Option="0" Exc="0" Set="0" SocketCount="0" Element="0" Type="0" Duration="0" Description="Gold Key_Time Attack" />
