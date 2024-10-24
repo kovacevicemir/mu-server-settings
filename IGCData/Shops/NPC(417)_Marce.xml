@@ -64,6 +64,15 @@
 	<Item Cat="2" Index="10" Level="3" Durability="255" Skill="1" Luck="1" Option="4" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="2" Index="8" Level="3" Durability="255" Skill="1" Luck="1" Option="4" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="5" Index="23" Level="3" Durability="255" Skill="1" Luck="1" Option="4" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-	<Item Cat="5" Index="18" Level="3" Durability="255" Skill="0" Luck="1" Option="4" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" /> -->
-	<Item Cat="15" Index="30" Level="0" Durability="255" Skill="0" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="18" Level="3" Durability="255" Skill="0" Luck="1" Option="4" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="15" Index="30" Level="0" Durability="255" Skill="0" Luck="1" Option="0" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" /> -->
+	<Item Cat="7" Index="39" Level="2" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="8" Index="39" Level="2" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="9" Index="39" Level="2" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="10" Index="39" Level="2" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="11" Index="39" Level="2" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="0" Index="0" Level="1" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="0" Level="1" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="14" Level="1" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="5" Index="15" Level="2" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 </Shop>
