@@ -38,11 +38,11 @@
 -->
 
 <Shop>
-	<Item Cat="7" Index="1" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<!-- <Item Cat="7" Index="1" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="8" Index="1" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="9" Index="1" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="10" Index="1" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
-	<Item Cat="11" Index="1" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
+	<Item Cat="11" Index="1" Level="3" Durability="0" Skill="0" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" /> -->
 	<Item Cat="0" Index="9" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="0" Index="11" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
 	<Item Cat="0" Index="15" Level="3" Durability="0" Skill="1" Luck="1" Option="1" Exc="0" SetItem="0" SocketCount="0" Elemental="0" Serial="0" />
